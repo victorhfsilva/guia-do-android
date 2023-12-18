@@ -12,6 +12,18 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 
 ## 📚 Conteúdo:
 
+### 1. Kotlin
+
+- [Sintaxe Básica](./Kotlin/Sintaxe%20Básica.md)
+- [Comentários](./Kotlin/Comentários.md)
+- [Variáveis](./Kotlin/Variáveis.md)
+- [Tipos de Variáveis](./Kotlin/Tipos%20de%20Variáveis.md)
+
+
+
+#### Extra
+
+- [Kotlin: Tutorialspoint](https://www.tutorialspoint.com/kotlin/index.htm)
 
 
 ## 🌐 Recursos Adicionais
