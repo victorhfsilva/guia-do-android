@@ -18,13 +18,13 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 - [Comentários](./Kotlin/Comentários.md)
 - [Variáveis](./Kotlin/Variáveis.md)
 - [Tipos de Variáveis](./Kotlin/Tipos%20de%20Variáveis.md)
+- [Operadores](./Kotlin/Operadores.md)
+- [Strings](./Kotlin/Strings.md)
+- [Arrays](./Kotlin/Arrays.md)
 
-
-
-#### Extra
+#### Referências
 
 - [Kotlin: Tutorialspoint](https://www.tutorialspoint.com/kotlin/index.htm)
-
 
 ## 🌐 Recursos Adicionais
 
