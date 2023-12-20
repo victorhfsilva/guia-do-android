@@ -21,6 +21,14 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 - [Operadores](./Kotlin/Operadores.md)
 - [Strings](./Kotlin/Strings.md)
 - [Arrays](./Kotlin/Arrays.md)
+- [Ranges](./Kotlin/Range.md)
+- [Funções](./Kotlin/Funções.md)
+- [Condicionais If](./Kotlin/Condicionais%20If.md)
+- [Condicionais When](./Kotlin/Condicionais%20When.md)
+- [For Loops](./Kotlin/For%20Loops.md)
+- [Iteradores Personalizados](./Kotlin/Iteradores%20Personalizados.md)
+- [While Loops](./Kotlin/While%20Loops.md)
+- [Controle de Fluxo](./Kotlin/Controle%20de%20Fluxo.md)
 
 #### Referências
 
