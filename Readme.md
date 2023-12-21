@@ -29,6 +29,8 @@ Não se sinta pressionado a seguir cada passo desta trilha rigidamente. O desenv
 - [Iteradores Personalizados](./Kotlin/Iteradores%20Personalizados.md)
 - [While Loops](./Kotlin/While%20Loops.md)
 - [Controle de Fluxo](./Kotlin/Controle%20de%20Fluxo.md)
+- [Lists](./Kotlin/Lists.md)
+
 
 #### Referências
 
