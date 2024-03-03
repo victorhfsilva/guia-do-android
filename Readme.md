@@ -1,4 +1,4 @@
-# 😎 Guia do Frontend 
+# 😎 Guia do Android 
 
 Bem-vindo ao Guia do Android! Este repositório é o ponto de partida perfeito para quem quer mergulhar no universo do desenvolvimento de aplicativos Android. Aqui, você encontrará uma série de arquivos recheados de conceitos, exemplos práticos e links úteis para o desenvolvimento.
 
